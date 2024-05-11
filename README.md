@@ -46,11 +46,14 @@ Not started yet
  <a href="https://discord.gg/FarhanTanvir" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/FarhanTanvirx" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://t.me/Farhan_Tanvir" target="_blank"><img src="https://img.shields.io/badge/-telegram-7289DA?style=for-the-badge&logo=telegram&logoColor=blue" target="_blank"></a>
-<a href="https://twitter.com/Farhan_Tanvir_" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=x&logoColor=black" target="_blank"></a>
+
+<!-- Twitter -->
+<a href="https://twitter.com/Farhan_Tanvir_" target="_blank"><img alt="Twitter"               src="https://img.shields.io/badge/-Twitter-EA4335?style=flat-square&logo=x&logoColor=blue">
+</a><br>
 
 <!-- Mail -->
 <a href="mailto:farhanxtanvir@gmail.com" target="_blank"><img alt="Mail"               src="https://img.shields.io/badge/-Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
-</a> <br>
+</a><br>
 
 Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
 Happy coding and exploring the world of opportunities! 🚀 
