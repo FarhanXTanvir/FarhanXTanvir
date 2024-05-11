@@ -25,10 +25,10 @@ Welcome to my GitHub profile! I'm passionate about leveraging my existing skills
 
 ## Projects
 
-### Project 1: github.com/FarhanXTanvir/CGPA Calculator
+### Project 1: <a href="github.com/FarhanXTanvir/cgpa-calculator"> CGPA Calculator </a>
 
 
-### Project 2: github.com/FarhanXTanvir/RouteRover
+### Project 2: <a href="github.com/FarhanXTanvir/RouteRover"> Route Rover </a>
 
 
 ## Learning Journey
