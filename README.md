@@ -5,7 +5,7 @@
 Welcome to my GitHub profile! I'm passionate about leveraging my existing skills to gain insights and solve real-world problems. Here, you'll find my projects, contributions, and a bit about who I am.
 <br>
 <br>
-![](https://komarev.com/ghpvc/?username=farhanxtanvir&color=brightgreen)
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=openvpn.svg&icon_color=%23CD3636&title=Visits&edge_flat=false"/></a>
 
 ## About Me
 - 📚 Constantly learning and exploring various frontend and backend technologies like languages, frameworks, and libraries along with necessary tools like git, package manager, bundler and so on.
