@@ -45,14 +45,19 @@ Not started yet
 <div> 
  <a href="https://discord.gg/FarhanTanvir" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/FarhanTanvirx" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://t.me/Farhan_Tanvir" target="_blank"><img src="https://img.shields.io/badge/-telegram-7289DA?style=for-the-badge&logo=telegram&logoColor=blue" target="_blank"></a>
+
+<a href="https://t.me/Farhan_Tanvir" target="_blank"><img src="https://img.shields.io/badge/-telegram-%230077B5?style=for-the-badge&logo=telegram&logoColor=black" target="_blank"></a>
+
+<!-- Telegram -->
+<a href="https://t.me/Farhan_Tanvir" target="_blank"><img alt="Telegram"               src="https://img.shields.io/badge/-telegram-333?style=flat-square&logo=x&logoColor=blue">
+</a>
 
 <!-- Twitter -->
-<a href="https://twitter.com/Farhan_Tanvir_" target="_blank"><img alt="Twitter"               src="https://img.shields.io/badge/-Twitter-EA4335?style=flat-square&logo=x&logoColor=blue">
-</a><br>
+<a href="https://twitter.com/Farhan_Tanvir_" target="_blank"><img alt="Twitter"               src="https://img.shields.io/badge/-Twitter-333?style=flat-square&logo=x&logoColor=blue">
+</a>
 
 <!-- Mail -->
-<a href="mailto:farhanxtanvir@gmail.com" target="_blank"><img alt="Mail"               src="https://img.shields.io/badge/-Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
+<a href="mailto:farhanxtanvir@gmail.com" target="_blank"><img alt="Mail"               src="https://img.shields.io/badge/-Mail-EA4335?style=flat-square&logo=gmail&logoColor=white">
 </a><br>
 
 Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
