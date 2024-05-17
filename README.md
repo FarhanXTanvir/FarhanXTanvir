@@ -66,7 +66,7 @@ src="https://img.shields.io/github/followers/FarhanXTanvir?logo=github&style=for
 <a href="https://github.com/FarhanXTanvir/cgpa_calculator" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=FarhanXTanvir&repo=cgpa_calculator&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
 </span>
 <span>
-<a href="https://github.com/FarhanXTanvir/modernRR" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=FarhanXTanvir&repo=modernRR&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+<a href="https://github.com/FarhanXTanvir/RouteRover" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=FarhanXTanvir&repo=modernRR&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
 </span>
 </div><br /><br /><br /><br /><br /><br /><br />
 
